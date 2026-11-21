@@ -61,7 +61,7 @@ function App() {
             <h1 className="text-3xl sm:text-4xl font-semibold text-[#eef3f7] mt-2">
               SecureGen
             </h1>
-            <p className="text-sm text-[#b9c4d1]/70 mt-1">Password generator</p>
+            <p className="text-sm text-[#b9c4d1]/70 mt-1">Password Generator</p>
             <div className="mx-auto mt-3 h-px w-16 bg-gradient-to-r from-transparent via-[#2dd4bf] to-transparent" />
           </div>
 
